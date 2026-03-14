@@ -155,15 +155,6 @@ Future improvements can include:
 
 ---
 
-## 🚀 Future Improvements
-
-* Implement SMOTE for better handling of class imbalance
-* Use advanced models such as Random Forest or XGBoost
-* Perform feature scaling and feature engineering
-* Deploy the model as an API
-
----
-
 ## 📂 Project Structure
 
 ```
